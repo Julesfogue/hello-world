@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register</h1>
     <h1>Hello Today is Monday, November 15,2021, 2nd test,Welcome to simple DevOps Project !!!</h1>
-    <h2>Hello Today is Monday Evening, November 15,2021, 3rd test,Welcome to simple DevOps Project part 3 !!!</h2>
+    <h2>Hello Today is Monday afternoon, December 6,2021, 3rd test,Welcome to simple DevOps Project part 3 !!!</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
